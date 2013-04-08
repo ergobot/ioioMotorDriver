@@ -4,7 +4,11 @@ Description: The application demo the use of a ioio mint (Droidalyzer) and a Mot
 
 When the ioio mint, motor driver, and two motors are connected, the motors will run clockwise for two seconds, stop for two seconds, run counter-clockwise for two seconds, and stop for two seconds.  
 
+
+
 ioio mint: http://www.adafruit.com/products/885
+
+
 motor driver: https://www.sparkfun.com/products/9457?
 
 
